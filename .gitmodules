@@ -1,0 +1,3 @@
+[submodule "flixxit"]
+	path = flixxit
+	url = https://github.com/kawaljeet32/flixxit
